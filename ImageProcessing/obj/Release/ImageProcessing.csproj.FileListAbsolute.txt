@@ -1,0 +1,10 @@
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Form1.resources
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb
+C:\Users\Haykaz\source\repos\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csprojAssemblyReference.cache
